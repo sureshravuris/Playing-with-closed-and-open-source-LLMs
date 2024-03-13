@@ -2,6 +2,8 @@
 
 Welcome to the comprehensive guide on exploring and utilizing Large Language Models (LLMs) through a series of interactive Jupyter notebooks. This collection is designed to introduce you to various aspects of working with LLMs, from basic tokenization to leveraging advanced techniques for fine-tuning and exploring newer models like LLaMA. Each part focuses on a specific topic, providing hands-on examples and insights to enhance your understanding and skills in natural language processing and machine learning.
 
+## **Demo Link for the Assignment:** [Access Here](https://drive.google.com/uc?id=1vmvwcJI4Z8P97Uk7uekHTx45MSzRRa7O&export=download)
+
 ## Overview of Notebooks
 
 ### Part A: Tokenization
